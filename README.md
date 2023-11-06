@@ -2,6 +2,10 @@
 
 Little Lemon is a restaurant website built using React, as part of the Meta Front End Developer certificate program. The website is designed to showcase the restaurant's menu, services, and contact information.
 
+## Live Website
+
+You can see the live website at https://little-lemon-capstone-nu.vercel.app
+
 ## Installation
 
 To install the project, follow these steps:
@@ -28,10 +32,6 @@ The following technologies were used to build this website:
 - HTML
 - CSS
 - JavaScript
-
-## Live Website
-
-You can see the live website at https://little-lemon-pi.vercel.app
 
 ## Contributing
 
