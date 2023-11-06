@@ -40,7 +40,7 @@ const Footer = () => {
         {/* Contact */}
         <ul>
           <h3>Contact Us</h3>
-          <li>123 Main Street, Anytown, USA</li>
+          <li>123 Main Street, Anytown, Egypt</li>
           <li>(555) 123-4567</li>
           <li>contact@littlelemonrestaurant.com</li>
         </ul>
